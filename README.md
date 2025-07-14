@@ -1,1 +1,2 @@
 # chronc-kidney-disease-prediction
+This project aims to develop "Campus Connect," a web platform designed to foster meaningful connections between senior and junior students across various colleges. Recognizing the valuable insights and experiences seniors possess, and the need for guidance and networking opportunities among juniors, this platform provides a centralized hub for interaction and knowledge sharing. The platform will be built using a modern web development stack (e.g., MERN) to ensure a dynamic and responsive user experience.
